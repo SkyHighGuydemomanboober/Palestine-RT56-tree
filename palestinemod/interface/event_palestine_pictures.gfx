@@ -1,0 +1,8 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_ahmed_hilmi_death_event_image"
+		texturefile = "gfx/event_pictures/ahmed_hilmi_death.dds"
+	}
+	
+}
